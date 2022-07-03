@@ -20,7 +20,6 @@ This is a solution to the [Build a Personal Portfolio Webpage](https://www.freec
 
 ### Links
 
-- Solution URL: [Solution URL here](https://codepen.io/mohamed-waled-the-styleful/pen/NWgJzKz)
 - Live Site URL: [Live site URL here](https://mohamed-waled.github.io/Personal-Portfolio-Webpage/)
 
 ## My process
