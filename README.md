@@ -15,8 +15,8 @@ This is a solution to the [Build a Personal Portfolio Webpage](https://www.freec
 
 ### Screenshot
 
-![](https://raw.githubusercontent.com/Mohamed-Waled/Personal-Portfolio-Webpage/main/Images/Screenshot%202022-03-11%20at%2010-53-12%20Personal%20Portfolio%20Webpage.png)
-![](https://raw.githubusercontent.com/Mohamed-Waled/Personal-Portfolio-Webpage/main/Images/Screenshot%202022-03-11%20at%2010-53-39%20Personal%20Portfolio%20Webpage.png)
+![](images/mohamed-waled.github.io_Personal-Portfolio-Webpage_%20(3).png)
+![](images/mohamed-waled.github.io_Personal-Portfolio-Webpage_%20(2).png)
 
 ### Links
 
